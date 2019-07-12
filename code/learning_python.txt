@@ -1,0 +1,4 @@
+In Pythons you can do all kinds of cool stuff:
+ - write functions;
+ - write classes;
+ -inheritToiler
